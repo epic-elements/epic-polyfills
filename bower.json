@@ -1,0 +1,21 @@
+{
+  "name": "epic-polyfills",
+  "homepage": "https://github.com/epic-elements/epic-polyfills",
+  "authors": [
+    "Max Leitch <mjleitch@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "babel-polyfill": "https://github.com/babel/babel/tree/master/packages/babel-polyfill",
+    "polyfill": "https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.9.1/polyfill.js"
+  }
+}
