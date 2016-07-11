@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "babel-polyfill": "https://github.com/babel/babel/tree/master/packages/babel-polyfill",
-    "polyfill": "https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.9.1/polyfill.js"
+    "polyfill": "https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.9.1/polyfill.js",
+    "core.js": "^2.4.0"
   }
 }
